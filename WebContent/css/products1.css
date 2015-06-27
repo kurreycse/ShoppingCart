@@ -1,0 +1,73 @@
+table.products td{
+	border: 1px solid;
+	border-radius:10px;
+	border-color: #1C415B;
+	width: 20%;
+	height:20%;
+	text-align: center;
+	
+}
+
+table.products td:hover { border-color: activeborder; background-color: #E6E6E6;
+}
+
+table.products td a{
+	display: block; 
+	width: 100%; 
+	height: 50%;
+} 
+table.products td#iframe{
+	width: 20%;
+	height:20%;
+
+}
+div#image{
+
+	width: 100%;
+	height: 100%;
+	
+}
+
+table.products{
+	height: 100%;
+	width: 100%;
+	
+}
+table.prospec{
+  
+  
+	
+    font-size: 25px;
+}
+
+#submitbox{
+width: 350px;
+height:25px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+background-color: #EFECDD;
+z-index: 100000;
+
+
+}
+#searchresults123
+{
+border-shadow:2px;
+z-index: 1020;
+
+border: 1px solid;
+position:absolute;
+
+height:300%;
+width:75%;
+left:17%;
+margin-right:10px;
+top:78%;
+background-color: #fffff0;
+overflow: scroll;
+padding:2px;
+
+border-radius:10px; 
+
+}

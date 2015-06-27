@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+div#mainpage{
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: #1C415B;
+    min-height:55px;
+}
+div#menu{
+    border: 2px solid;
+   
+    border-color: #1C415B;
+}
+#main {
+    width:100%;
+    overflow:hidden;
+    min-height:525px;
+    position: relative;
+    padding-right: 5px;
+    
+}
+
+

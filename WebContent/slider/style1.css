@@ -1,0 +1,19 @@
+.rq h1, .rq h2 {
+    color:#3a3a3a;
+    text-shadow:0 1px 0 #FFF;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    margin-top:10px;
+    margin-bottom:8px;
+    font:700 15px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial
+}
+.rq h3 a { color:#b02d15; }
+.rq h3 small {
+    font-size:11px;
+    display:block;
+    text-transform:capitalize;
+    font-weight:normal;
+}
+.rq p a { color:#2c2c2c; }
+.rq p a:hover { color:#777; }
+.rq-link { padding:20px 0; }
